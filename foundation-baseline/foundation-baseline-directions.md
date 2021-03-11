@@ -30,8 +30,7 @@
 - Recreate the interaction using
 
   - [mockup 1 user](https://github.com/kaseymccormick/angular-exercises/blob/main/foundation-baseline/admin-view.svg)
-  - [mockup 2
-    admin](https://github.com/kaseymccormick/angular-exercises/blob/main/foundation-baseline/user-view.svg)
+  - [mockup 2 admin](https://github.com/kaseymccormick/angular-exercises/blob/main/foundation-baseline/user-view.svg)
 
 - clicking user must show user view and change headline
 - clicking admin must show admin view and change headline
