@@ -25,5 +25,5 @@ Topics covered
 ## Services
 TBD
 
-## Javascript Foundations
+## Javascript Basics
 TBD
