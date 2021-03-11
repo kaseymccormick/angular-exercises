@@ -19,7 +19,7 @@
 
 
      - This is testing component naming, placement and use as well as state managment, google chops and using your
-      resources. (<span class="text-info">For this situation Rob and I are not a resource.</span>)
+      resources. (For this situation Sr Devs are not a resource, this is not realistic for everyday work.)
 
      - There are colors provided for success, error, and info as well as a adequate dark and light gray. With some
       text-color classes added. Check styles.scss chances are what you need is there.
@@ -31,9 +31,9 @@
 
      - Recreate the interaction using
 
-         - [mockup 1 user]()
+         - [mockup 1 user](https://github.com/kaseymccormick/angular-exercises/blob/main/foundation-baseline/admin-view.svg)
          - [mockup 2
-            admin]
+            admin](https://github.com/kaseymccormick/angular-exercises/blob/main/foundation-baseline/user-view.svg)
 
 
      - clicking user must show user view and change headline
